@@ -1,0 +1,27 @@
+北京大学课程资料整理：
+https://github.com/lib-pku/libpku
+
+
+浙江大学课程攻略共享计划：
+https://github.com/QSCTech/zju-icicles
+
+
+清华大学计算机系课程攻略：
+https://github.com/PKUanonym/REKCARC-TSC-UHT
+
+在学习中发现效率低是低在哪里，是什么原因？
+---问题解决方法如下，先读三遍----
+《如何从容应对含有过多 “过早引用” 的知识？》
+https://github.com/selfteaching/the-craft-of-selfteaching/blob/master/Part.1.F.deal-with-forward-references.ipynb
+《笨拙与耐心》
+https://github.com/selfteaching/the-craft-of-selfteaching/blob/master/Part.2.A.clumsy-and-patience.ipynb
+《避免注意力漂移》
+https://github.com/selfteaching/the-craft-of-selfteaching/blob/master/Part.3.H.prevent-focus-drifting.ipynb
+《刻意练习》
+https://github.com/selfteaching/the-craft-of-selfteaching/blob/master/Part.2.B.deliberate-practicing.ipynb
+《战胜难点》
+https://github.com/selfteaching/the-craft-of-selfteaching/blob/master/Part.3.A.conquering-difficulties.ipynb
+[]()
+《拆解》
+https://github.com/selfteaching/the-craft-of-selfteaching/blob/master/Part.3.C.breaking-good-and-bad.ipynb
+出自李笑来《自学是门手艺》
